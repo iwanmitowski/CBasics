@@ -1,2 +1,2 @@
 # CBasics
-C Basics problems, exercises
+C Basic problems, exercises
